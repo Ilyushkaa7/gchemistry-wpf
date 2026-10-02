@@ -1,4 +1,4 @@
-﻿# GCHEMISTRY
+# GCHEMISTRY
 
 GCHEMISTRY is a desktop WPF application for a sales manager who works with chemical reagents.
 
@@ -33,7 +33,7 @@ The main goal was to create a simple, modern, and fast interface for everyday wo
 - C#
 - WPF
 - XAML
-- .NET 6
+- .NET 6 (original project target; now out of support)
 
 ## Data Storage
 
@@ -65,7 +65,7 @@ User accounts and product data are stored inside the application code or memory.
 
 ## My Role
 
-I made this project by myself:
+My work included:
 
 - analyzed the task
 - designed the interface
@@ -76,9 +76,7 @@ I made this project by myself:
 - prepared the presentation
 - presented and defended the project
 
-I used AI as a coding assistant to speed up development, especially because the project had to be finished quickly. I still read and understood the XAML and C# code, tested the application, wrote the documentation myself, and made the final decisions.
-
-Roughly, I consider the work as 75% my own work and 25% AI assistance.
+AI tools assisted with coding. I reviewed the XAML and C#, tested the application, prepared the documentation and made the final decisions.
 
 ## Testing
 
@@ -105,5 +103,5 @@ The folder also contains a Russian project report written according to college/G
 
 The application is finished as a college project prototype.
 
-The repository will contain the executable file, report, screenshots, and README.
+This repository currently contains the executable, report, screenshots and README. C# and XAML source files are not published here, so the application cannot be rebuilt from this repository.
 
